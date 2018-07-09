@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
         etGPA = findViewById(R.id.editTextGPA);
         rgGender = findViewById(R.id.radioGroupGender);
 
+        // This is a new line
+
     }
 
     @Override
